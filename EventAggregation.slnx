@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="docs\README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Personix.EventAggregation/Personix.EventAggregation.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Personix.EventAggregation.Tests/Personix.EventAggregation.Tests.csproj" Type="Classic C#" />
+  </Folder>
+</Solution>
