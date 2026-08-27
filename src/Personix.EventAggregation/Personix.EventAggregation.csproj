@@ -6,7 +6,8 @@
     <PackageId>Personix.EventAggregation</PackageId>
     <AssemblyName>Personix.EventAggregation</AssemblyName>
     <RootNamespace>Personix.EventAggregation</RootNamespace>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
+    <PackageReleaseNotes>1.1.0 — adds a net11.0 target alongside net10.0. No API change.</PackageReleaseNotes>
     <Authors>Pavel Kudrna</Authors>
     <Company>Personix</Company>
     <Product>Personix.EventAggregation</Product>
